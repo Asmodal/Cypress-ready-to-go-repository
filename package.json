@@ -1,0 +1,18 @@
+{
+  "name": "cypres",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy open": "cypress open"
+  },
+  "author": "Kamil",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.2.0"
+  },
+  "dependencies": {
+    "faker": "^5.5.3"
+  }
+}
